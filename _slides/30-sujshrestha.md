@@ -3,8 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Beavis and Butthead
+Caption here
 
 ![saritocat](https://octodex.github.com/images/saritocat.png)
 {: .center}
-
